@@ -1,0 +1,18 @@
+{
+  "name": "reduce_images",
+  "version": "1.0.0",
+  "description": "reduce_images",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "reduce",
+    "images"
+  ],
+  "author": "heyu",
+  "license": "ISC",
+  "dependencies": {
+    "images": "^3.0.1"
+  }
+}
